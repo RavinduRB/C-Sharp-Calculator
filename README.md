@@ -1,0 +1,1 @@
+This app is created using C# programming language. Addition, subtraction, multiplication, and division can be done easily using this windows from application. Any number is not divisible by zero. In this application, when a number is divided by zero, the answer appears as "E".   It means "there is an error".
